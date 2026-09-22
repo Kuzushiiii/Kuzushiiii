@@ -4,10 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=3D3D3D&height=3" width="100%" />
 
-<p align="center">
-<img src="https://media1.tenor.com/m/gb2xC6a_UZgAAAAC/violet-evergarden-violet.gif" width="300">
-</p>
-
 ```console
 Microsoft Windows [Version 10.0]
 (c) Microsoft Corporation. All rights reserved.
@@ -56,7 +52,7 @@ Have a wonderful day.
 ```
 
 <p align="center">
-<img src="https://media1.tenor.com/m/73S5iCr5NeMAAAAd/violet-violet-evergarden.gif" width="300">
+<img src="https://media1.tenor.com/m/gb2xC6a_UZgAAAAC/violet-evergarden-violet.gif" width="500">
 </p>
 
 </details>
