@@ -4,10 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=3D3D3D&height=3" width="100%" />
 
-<p align="center">
-<img src="https://media1.tenor.com/m/gb2xC6a_UZgAAAAC/violet-evergarden-violet.gif" width="300">
-</p>
-
 ```console
 Microsoft Windows [Version 10.0]
 (c) Microsoft Corporation. All rights reserved.
@@ -24,11 +20,11 @@ Name        : Muhammad Tiansyah Wahyudi Putra
 Nickname    : Tian
 Alias       : Kuzushi
 Location    : Indonesia
-Role        : Software Engineering Student | Web Development
+Role        : Software Engineering Student
+Focus       : Web Development
 ```
 
-<details>
-<summary><code>>> Expand developer profile</code></summary>
+<details> <summary><code>&gt;&gt; Expand developer profile</code></summary>
 
 ```console
 C:\Users\Visitor> type interests.txt
@@ -37,13 +33,14 @@ Loading interests...
 
 - Artificial Intelligence
 - Web Development
+- Software Engineering
 
 C:\Users\Visitor> type personal.txt
 
 Loading personal...
 
 nerd_level          : high
-current_quest       : seeking the true meaning of "clean code"
+current_quest       : seeking the true meaning of "clean code" and more maintainable software
 keyboard_vibe       : heavy tactile switches
 git_commit_style    : treating commit messages like formal letters
 
@@ -55,30 +52,22 @@ Have a wonderful day.
 ```
 
 <p align="center">
-<img src="https://media1.tenor.com/m/73S5iCr5NeMAAAAd/violet-violet-evergarden.gif" width="300">
+<img src="https://media1.tenor.com/m/gb2xC6a_UZgAAAAC/violet-evergarden-violet.gif" width="500">
 </p>
 
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=3D3D3D&height=3" width="100%" />
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### 🌐 Frontend
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,jquery,react&perline=7" alt="Frontend technologies"> </p>
 
 ### ⚙ Backend
 
-<p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,python,nodejs&perline=5" alt="Backend technologies"> </p>
 
 ### 🚀 Frameworks & Libraries
 
@@ -93,19 +82,11 @@ Have a wonderful day.
 
 ### 🗄 Database
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=2" alt="Database technologies"> </p>
 
 ### 🛠 Tools
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" alt="Development tools"> </p><img src="https://capsule-render.vercel.app/api?type=rect&color=3D3D3D&height=3" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=3D3D3D&height=3" width="100%" />
 
