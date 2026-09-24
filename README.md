@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/ZNZGEPiGrScAAAAd/violet-evergarden.gif" width="700" alt="Violet Evergarden Banner">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3D3D3D&height=3" width="100%" />
+#
 
 ```console
 Microsoft Windows [Version 10.0]
@@ -57,9 +57,7 @@ Have a wonderful day.
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3D3D3D&height=3" width="100%" />
-
-# 💻 Tech Stack
+# Tech Stack
 
 <p align="left">
   <!-- Programming Languange -->
@@ -91,15 +89,11 @@ Have a wonderful day.
   <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=vivaldi&logoColor=white" alt="Vivaldi" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3D3D3D&height=3" width="100%" />
-
-# 📈 Activity Graph
+# Github Statisctics
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuzushiiii&theme=github-compact&hide_border=true">
+  <img src="https://streak-stats.demolab.com/?user=Kuzushiiii&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3D3D3D&height=3" width="100%" />
 
 <p align="center">
 
